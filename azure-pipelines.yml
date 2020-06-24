@@ -12,3 +12,6 @@ extends:
     package_version: 0.40.0
     source_repository: public-conan-center
     destination_repository: ccdc-3rdparty-conan
+    build_types:
+      - Release
+      - Debug
